@@ -1,7 +1,7 @@
 {
   "name": "@elizaos/plugin-vision",
   "description": "Vision plugin for ElizaOS - provides camera integration and visual awareness",
-  "version": "1.0.0",
+  "version": "1.2.0",
   "type": "module",
   "private": true,
   "main": "dist/index.js",
@@ -62,6 +62,7 @@
   "devDependencies": {
     "@elizaos/cli": "^1.2.0",
     "@eslint/js": "^9.0.0",
+    "@types/bun": "^1.2.18",
     "@types/node": "^24.0.13",
     "@types/tesseract.js": "^2.0.0",
     "@typescript-eslint/eslint-plugin": "^8.0.0",
