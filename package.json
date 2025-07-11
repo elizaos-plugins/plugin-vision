@@ -1,9 +1,8 @@
 {
   "name": "@elizaos/plugin-vision",
   "description": "Vision plugin for ElizaOS - provides camera integration and visual awareness",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "type": "module",
-  "private": true,
   "main": "dist/index.js",
   "module": "dist/index.js",
   "types": "dist/index.d.ts",
